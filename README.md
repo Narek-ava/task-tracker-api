@@ -16,6 +16,11 @@ API для управления задачами команды разработ
 
 ---
 
+[Открыть API-документацию](http://5.129.193.253:8000/api/documentation)
+
+[![Swagger](https://img.shields.io/badge/docs-swagger-blue)](http://5.129.193.253:8000/api/documentation)
+
+
 ## ⚙️ Установка и запуск
 
    ```bash

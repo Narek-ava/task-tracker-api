@@ -2,6 +2,9 @@
 
 return [
     'default' => 'default',
+    'constants' => [
+    'L5_SWAGGER_CONST_HOST' => env('L5_SWAGGER_CONST_HOST', 'http://5.129.193.253:8000'),
+    ],
     'documentations' => [
         'default' => [
             'api' => [

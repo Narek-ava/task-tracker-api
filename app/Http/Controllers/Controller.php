@@ -15,8 +15,8 @@ namespace App\Http\Controllers;
  *     )
  * ),
  * @OA\Server(
- *     url="http://127.0.0.1:8000",
- *     description="Local server"
+ *     url="L5_SWAGGER_CONST_HOST",
+ *     description="Public server"
  * )
  * @OA\SecurityScheme(
  *     securityScheme="bearerAuth",
